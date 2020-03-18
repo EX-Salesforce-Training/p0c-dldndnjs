@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Queue xmlns="http://soap.sforce.com/2006/04/metadata">
+    <doesSendEmailToMembers>true</doesSendEmailToMembers>
+    <email>jenobia92@gmail.com</email>
+    <name>approval process</name>
+    <queueMembers>
+        <users>
+            <user>jenobia92@brave-moose-lshz5w.com</user>
+            <user>mailhands@gmail.com</user>
+        </users>
+    </queueMembers>
+    <queueSobject>
+        <sobjectType>Mail__c</sobjectType>
+    </queueSobject>
+</Queue>
